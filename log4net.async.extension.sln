@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "log4net.async.extension", "Source\log4net.async.extension.csproj", "{C7997F2C-6D13-4EA1-8F5D-F5E309E6E178}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D54B16A-2BAB-4F88-933D-754BC9FADD60}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+		Rebracer.xml = Rebracer.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7997F2C-6D13-4EA1-8F5D-F5E309E6E178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7997F2C-6D13-4EA1-8F5D-F5E309E6E178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7997F2C-6D13-4EA1-8F5D-F5E309E6E178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7997F2C-6D13-4EA1-8F5D-F5E309E6E178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34EA6A24-3526-4E0E-8A7A-2B9B2EC022CB}
+	EndGlobalSection
+EndGlobal
